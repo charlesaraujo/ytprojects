@@ -2,6 +2,7 @@
 ## Videos bons para rever
 ### Programação
 - [Historia do javascript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=WL&index=60)
+- [JavaScript: How It's Made](https://www.youtube.com/watch?v=FSs_JYwnAdI)
 - [7 conceitos sobre RxJS](https://www.youtube.com/watch?v=65Us8NwmYf4&list=WL&index=55)
 - [Riscos de segurança e historias sobre web development](https://www.youtube.com/watch?v=4YOpILi9Oxs&list=WL&index=18)
 - [Regex 100 segundos](https://www.youtube.com/watch?v=sXQxhojSdZM&list=WL&index=54)
@@ -14,6 +15,7 @@
 - [Flutter for js develop](https://www.youtube.com/watch?v=7sJZi0grFR4&list=WL&index=1)
 - [Stripe Payments basics](https://www.youtube.com/watch?v=1XKRxeo9414&list=WL&index=6&t=104s)
 - [Kubernetes vs docker: nao é uma questao de um ou outro](https://www.youtube.com/watch?v=2vMEQ5zs1ko&list=WL&index=11)
+- [you need to learn Docker RIGHT NOW!](https://www.youtube.com/watch?v=eGz9DS-aIeY&list=WL&index=10)
 - [Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8&list=WL&index=12)
 
 ### Design
