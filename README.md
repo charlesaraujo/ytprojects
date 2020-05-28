@@ -10,6 +10,7 @@
 - [7 fullstack ideias ](https://www.youtube.com/watch?v=JTOJsU3FSD8&list=WL&index=20)
 - [Loops: Code this not that](https://www.youtube.com/watch?v=x7Xzvm0iLCI&list=WL&index=9)
 - [Javascript pro tips: Code this not that](https://www.youtube.com/watch?v=Mus_vwhTCq0&list=WL&index=14)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### - Design
 - [Recursos para desevolvedores](design-resources-for-dev.md)
@@ -23,6 +24,12 @@
 - [Canva: Criando um banner para o youtube](https://www.youtube.com/watch?v=uIZu9XCh0-Y&list=WL&index=58)
 - [Canva: Criando um post para o facebook](https://www.youtube.com/watch?v=rRm3NLG_EaQ&list=WL&index=58)
 
+#### Figma recursos
+- [https://www.figmafinder.com/](https://www.figmafinder.com/)
+- [https://www.figmafreebies.com/](https://www.figmafreebies.com/)
+- [https://www.figmacrush.com/](https://www.figmacrush.com/)
+- [https://www.figmaresources.com/](https://www.figmaresources.com/)
+- [https://www.figma.com/resources/](https://www.figma.com/resources/)
 
 
 ### - Assuntos gerais
