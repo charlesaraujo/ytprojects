@@ -17,7 +17,7 @@
 - [Kubernetes vs docker: nao é uma questao de um ou outro](https://www.youtube.com/watch?v=2vMEQ5zs1ko&list=WL&index=11)
 - [you need to learn Docker RIGHT NOW!](https://www.youtube.com/watch?v=eGz9DS-aIeY&list=WL&index=10)
 - [Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8&list=WL&index=12)
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 
 ### Design
 - [Fundamentos](https://www.youtube.com/watch?v=YqQx75OPRa0&list=WL&index=57)
