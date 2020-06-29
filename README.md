@@ -18,6 +18,8 @@
 - [you need to learn Docker RIGHT NOW!](https://www.youtube.com/watch?v=eGz9DS-aIeY&list=WL&index=10)
 - [Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8&list=WL&index=12)
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- [Animated CSS Login Form w/ Password Validation Meter](https://www.youtube.com/watch?v=yrrw6KdGuxc&list=WL&index=12&t=7s)
+- [Let's build a Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc&list=WL&index=14&t=0s)
 
 ### Design
 - [Fundamentos](https://www.youtube.com/watch?v=YqQx75OPRa0&list=WL&index=57)
