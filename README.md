@@ -15,11 +15,16 @@
 - [Flutter for js develop](https://www.youtube.com/watch?v=7sJZi0grFR4&list=WL&index=1)
 - [Stripe Payments basics](https://www.youtube.com/watch?v=1XKRxeo9414&list=WL&index=6&t=104s)
 - [Kubernetes vs docker: nao é uma questao de um ou outro](https://www.youtube.com/watch?v=2vMEQ5zs1ko&list=WL&index=11)
-- [you need to learn Docker RIGHT NOW!](https://www.youtube.com/watch?v=eGz9DS-aIeY&list=WL&index=10)
+- [You need to learn Docker RIGHT NOW!](https://www.youtube.com/watch?v=eGz9DS-aIeY&list=WL&index=10)
 - [Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8&list=WL&index=12)
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 - [Animated CSS Login Form w/ Password Validation Meter](https://www.youtube.com/watch?v=yrrw6KdGuxc&list=WL&index=12&t=7s)
 - [Let's build a Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc&list=WL&index=14&t=0s)
+- [RxJS Top Ten - Code This, Not That](https://www.youtube.com/watch?v=ewcoEYS85Co&list=WL&index=15&t=7s)
+- [Composição de função no Javascript](https://www.youtube.com/watch?v=cGrTcnorZgs&list=WL&index=50&t=1s)
+- [Five tips to secure your app (Firebase Summit 2018)](https://www.youtube.com/watch?v=pvLkkLjHdkw&list=WL&index=71)
+- [Learn Angular Animations with 5 Examples](https://www.youtube.com/watch?v=mVqQDEtRBwA&list=WL&index=13&t=7s)
+
 
 ### Design
 - [Fundamentos](https://www.youtube.com/watch?v=YqQx75OPRa0&list=WL&index=57)
